@@ -8,11 +8,10 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Codings
-tagline: A dev and design blog.
+title : Brady Bytes
+tagline: A web dev blog.
 author :
   name : Brady Swenson
-  email : bradyswenson@gmail.com
   github : bradyswenson
   twitter : bswen
 
